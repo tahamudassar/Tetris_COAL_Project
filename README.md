@@ -1,5 +1,5 @@
 # Tetris_COAL_Project
-This is a game inspired by the original tetris.
+This is a game inspired by the original tetris,completely written in assembly language to be compiled with the NASM compiler.
 In order to run the game follow the steps:
 1.  First downlaod DOSBox or any other 8086 emulator
 2.  Place the AFD.exe and NASM.exe file in the same directory
